@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Mlops_-Zoomcamp24/02_experiment/mlruns/0/de4a80b1ab7b48a4a9dd7c4d85789485/artifacts
+end_time: 1717137951457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de4a80b1ab7b48a4a9dd7c4d85789485
+run_name: treasured-robin-567
+run_uuid: de4a80b1ab7b48a4a9dd7c4d85789485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717137935311
+status: 3
+tags: []
+user_id: codespace

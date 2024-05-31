@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Mlops_-Zoomcamp24/02_experiment/mlruns/0/7999ba737ffd44c1a88a8eac78120497/artifacts
+end_time: 1717137759449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7999ba737ffd44c1a88a8eac78120497
+run_name: blushing-gnat-668
+run_uuid: 7999ba737ffd44c1a88a8eac78120497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717137742114
+status: 3
+tags: []
+user_id: codespace
